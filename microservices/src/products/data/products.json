@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "OLJCESPC7Z",
+      "name": "Modern Traveler 2022",
+      "description": "AÑO: 2022, MARCA: Modelo de la marca, CATEGORIA: N3",
+      "picture": "static/img/products/typewriter.jpg",
+      "cost": 67000.99,
+      "categories": [ "vintage" ]
+    },
+    {
+      "id": "66VCHSJNUP",
+      "name": "TechVision Explorer 2010",
+      "description": "AÑO: 2010, MARCA: Modelo de la marca, CATEGORIA: N3",
+      "picture": "static/img/products/camera-lens.jpg",
+      "cost": 12000.49,
+      "categories": [ "photography", "vintage" ]
+    },
+    {
+      "id": "1YMWWN1N4O",
+      "name": "Luxury Mobile Retreat 2021",
+      "description": "AÑO: 2021, MARCA: Modelo de la marca, CATEGORIA: N3",
+      "picture": "static/img/products/barista-kit.jpg",
+      "cost": 124000,
+      "categories": [ "cookware" ]
+    },
+    {
+      "id": "L9ECAV7KIM",
+      "name": "Green Oasis Voyager 2015",
+      "description": "AÑO: 2015, MARCA: Modelo de la marca, CATEGORIA: N3",
+      "picture": "static/img/products/terrarium.jpg",
+      "cost": 36000.45,
+      "categories": [ "gardening" ]
+    },
+    {
+      "id": "2ZYFJ3GM2N",
+      "name": "Digital Visionary Pro 2020",
+      "description": "AÑO: 2020, MARCA: Modelo de la marca, CATEGORIA: N3",
+      "picture": "static/img/products/film-camera.jpg",
+      "cost": 224500,
+      "categories": [ "photography", "vintage" ]
+    },
+    {
+      "id": "0PUK6V6EV0",
+      "name": "Audio Elegance 2008",
+      "description": "AÑO: 2008, MARCA: Modelo de la marca, CATEGORIA: N3",
+      "picture": "static/img/products/record-player.jpg",
+      "cost": 65000.50,
+      "categories": [ "music", "vintage" ]
+    },
+    {
+      "id": "LS4PSXUNUM",
+      "name": "TrailBlazer Mug Set 2013",
+      "description": "AÑO: 2013, MARCA: Modelo de la marca, CATEGORIA: N3",
+      "picture": "static/img/products/camp-mug.jpg",
+      "cost": 24000.33,
+      "categories": [ "cookware" ]
+    },
+    {
+      "id": "9SIQT8TOJO",
+      "name": "Urban Cruiser 2019",
+      "description": "AÑO: 2019, MARCA: Modelo de la marca, CATEGORIA: N3",
+      "picture": "static/img/products/city-bike.jpg",
+      "cost": 789000.50,
+      "categories": [ "cycling" ]
+    },
+    {
+      "id": "6E92ZMYYFZ",
+      "name": "Serene Mobile Garden 2017",
+      "description": "AÑO: 2017, MARCA: Modelo de la marca, CATEGORIA: N3",
+      "picture": "static/img/products/air-plant.jpg",
+      "cost": 12000.30,
+      "categories": [ "gardening" ]
+    }
+  ]
+}
